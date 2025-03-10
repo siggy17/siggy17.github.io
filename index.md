@@ -2,8 +2,6 @@
 layout: single
 ---
 
-<img src="/assets/images/Group 1.svg" alt="Header image" style="width: 1in; height: 1in;">
-
 # Hi there 👋, I'm Noor.
 
 With over 10 years as a technical IC then a leader, I've found my sweet spot at the intersection of strategy and execution - identifying opportunities, rallying the right people, and building the systems that turn ideas into results. My approach to being a TPM is based around establishing trust, navigating ambiguity with confidence, and applying my ingenuity to solve complex challenges.
