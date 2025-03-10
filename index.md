@@ -1,6 +1,5 @@
 ---
 layout: single
-masthead: false
 ---
 
 <img src="/assets/images/Group 1.svg" alt="Header image" style="width: 1in; height: 1in;">

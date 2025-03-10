@@ -2,6 +2,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "aqua"
 
+# Disable masthead globally
+masthead: false
+
 # Site settings
 title: "Noor's Portfolio"  # Needed for SEO
 subtitle: ""
