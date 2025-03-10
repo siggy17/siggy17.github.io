@@ -45,7 +45,7 @@ plugins:
 
 # Disable feed
 atom_feed:
-  enabled: false
+  hide: true
 
 # Disable footer links
 footer:
