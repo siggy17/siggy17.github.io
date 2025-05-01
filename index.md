@@ -30,4 +30,4 @@ I'm building a web-based customizable workout timer for my gym community. Many m
 - Learning automation and scripting with AI and Python
 - Practicing strategic thinking through case study analysis
 - Lifting a 200lb sandbag
-~~Creating a 3D juice box brooch from sterling silver~~ 🎉 Finished it!
+- ~~Creating a 3D juice box brooch from sterling silver~~ 🎉 Finished it!
