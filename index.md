@@ -3,9 +3,9 @@ layout: single
 title: "# Hi there 👋, I'm Noor."
 ---
 
-With over 10 years as a technical IC then a leader, I've found my sweet spot at the intersection of strategy and execution - identifying opportunities, rallying the right people, and building the systems that turn ideas into results. My approach to being a TPM is based around establishing trust, navigating ambiguity with confidence, and applying my ingenuity to solve complex challenges.
+With over 10 years as a technical IC then a leader, I've found my sweet spot at the intersection of strategy and technology - identifying opportunities, rallying the right people, and building the systems that turn ideas into results. My approach to being a TPM is based around establishing trust, navigating ambiguity with confidence, and applying my ingenuity to solve complex challenges.
 
-Outside of work, you'll find me training Strongwoman style, silversmithing, and mentoring future engineers. 
+Outside of work, you'll find me training Strongwoman style, silversmithing, and tutoring math and science. 
 
 ## 🌟 Featured Projects
 ### 1. Automating Tutoring Form 
@@ -30,4 +30,4 @@ I'm building a web-based customizable workout timer for my gym community. Many m
 - Learning automation and scripting with AI and Python
 - Practicing strategic thinking through case study analysis
 - Lifting a 200lb sandbag
-- Creating a 3D-esque juice box brooch from sterling silver
+~~Creating a 3D juice box brooch from sterling silver~~ 🎉 Finished it!
