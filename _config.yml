@@ -9,6 +9,7 @@ masthead_title: " "
 
 # Site settings
 title: "Noor"  # This will show in browser tab
+name: "Noor"
 description: "Technical Program Manager Portfolio"
 url: "https://siggy17.github.io"  # Your actual GitHub Pages URL
 baseurl: ""  # the subpath of your site, e.g. "/blog"
