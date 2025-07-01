@@ -4,7 +4,6 @@ classes:
   - wide
   - no-sidebar
 author_profile: false
-title: ""
 ---
 # Hi there 👋, I'm Noor.
 
