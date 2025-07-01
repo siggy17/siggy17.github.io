@@ -19,8 +19,8 @@ I built an intelligent feature request management system that automates prioriti
 **Tech Stack**: Retool for UI, Linear GraphQL API for ticket management, Anthropic Claude API for intelligent analysis, JavaScript for workflow automation.
 
 <div>
-    <a href="https://www.loom.com/share/228f9918a35e418e90475f025c5cb38b?sid=7c8e736a-5ab9-4474-8d16-498f481773cb">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/228f9918a35e418e90475f025c5cb38b?sid=7c8e736a-5ab9-4474-8d16-498f481773cb-full-play.gif">
+    <a href="https://www.loom.com/share/228f9918a35e418e90475f025c5cb38b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/228f9918a35e418e90475f025c5cb38b-afcdea5c91f79339-full-play.gif">
     </a>
   </div>
   
