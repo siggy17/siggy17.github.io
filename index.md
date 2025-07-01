@@ -4,8 +4,8 @@ classes:
   - wide
   - no-sidebar
 author_profile: false
+title: "Hi there 👋, I'm Noor."
 ---
-# Hi there 👋, I'm Noor.
 
 With over 10 years as a technical IC, I've found my sweet spot at the intersection of strategy and technology - identifying opportunities, rallying the right people, and building the systems that turn ideas into results. My approach centers around establishing trust, navigating ambiguity with confidence, and applying my ingenuity to solve complex challenges.
 
