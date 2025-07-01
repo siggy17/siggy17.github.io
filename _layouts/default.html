@@ -6,6 +6,29 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    
+    <!-- Custom CSS for logo size and layout -->
+    <style>
+      .site-logo img {
+        max-height: 80px !important;
+        width: auto;
+      }
+
+      .masthead__inner-wrap .site-logo img {
+        max-height: 80px !important;
+        width: auto;
+      }
+
+      .page__content {
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+
+      .wrapper {
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+    </style>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">

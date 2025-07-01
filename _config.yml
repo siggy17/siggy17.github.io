@@ -8,12 +8,13 @@ logo: "/assets/images/Group 1.svg"  # Your 1" by 1" image
 masthead_title: " "
 
 # Site settings
-title: ""  # Empty title to remove header text
+title: "Noor"  # This will show in browser tab
+title_separator: ""  # Remove the hyphen separator
 name: "Noor"
 description: "Technical Program Manager Portfolio"
-url: ""  # the base hostname & protocol for your site e.g. "https://yourusername.github.io"
+url: "https://siggy17.github.io"  # Your actual GitHub Pages URL
 baseurl: ""  # the subpath of your site, e.g. "/blog"
-repository: ""  # GitHub username/repo-name
+repository: "siggy17/siggy17.github.io"  # Your GitHub username/repo-name
 
 # Site Author
 author:
