@@ -28,6 +28,38 @@
         max-width: 1200px;
         margin: 0 auto;
       }
+
+      /* Remove faint horizontal lines */
+      .page__content h1,
+      .page__content h2,
+      .page__content h3 {
+        border-bottom: none !important;
+        text-decoration: none !important;
+      }
+
+      /* Remove borders from images */
+      .page__content img {
+        border: none !important;
+        border-bottom: none !important;
+      }
+
+      /* Remove any underlines from headings that might be links */
+      .page__content h1 a,
+      .page__content h2 a,
+      .page__content h3 a {
+        text-decoration: none !important;
+        border-bottom: none !important;
+      }
+
+      /* Remove borders from divs containing images */
+      .page__content div {
+        border-bottom: none !important;
+      }
+
+      /* Remove any section borders */
+      .page__content section {
+        border-bottom: none !important;
+      }
     </style>
   </head>
 
